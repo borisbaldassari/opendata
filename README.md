@@ -19,4 +19,6 @@ A landscape of software-development opendata in OSS forges
 
 * Stack Overflow data: https://data.stackexchange.com/
 
+## Eclipse
 
+* Eclipse forge: https://wiki.eclipse.org/Forges
