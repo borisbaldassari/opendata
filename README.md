@@ -14,10 +14,11 @@ A landscape of software-development opendata in OSS forges
 ## Apache
 
 * Apache projects statistics: https://projects.apache.org/statistics.html
+* Apache maturity model: http://community.apache.org/apache-way/apache-project-maturity-model.html
 
-# Open Stack
+## Open Stack
 
-http://stackalytics.openstack.org/
+* http://stackalytics.openstack.org/
 
 ## Stack Overflow
 
